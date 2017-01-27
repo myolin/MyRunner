@@ -1,0 +1,40 @@
+
+Rasengan.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+beam4
+  rotate: false
+  xy: 1, 1
+  size: 212, 156
+  orig: 212, 156
+  offset: 0, 0
+  index: -1
+beam3
+  rotate: false
+  xy: 215, 3
+  size: 208, 154
+  orig: 208, 154
+  offset: 0, 0
+  index: -1
+beam5
+  rotate: false
+  xy: 425, 1
+  size: 204, 156
+  orig: 204, 156
+  offset: 0, 0
+  index: -1
+beam2
+  rotate: false
+  xy: 631, 1
+  size: 174, 156
+  orig: 174, 156
+  offset: 0, 0
+  index: -1
+beam1
+  rotate: false
+  xy: 807, 1
+  size: 153, 156
+  orig: 153, 156
+  offset: 0, 0
+  index: -1

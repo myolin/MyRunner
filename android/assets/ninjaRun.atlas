@@ -1,0 +1,47 @@
+
+ninjaRun.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+run2
+  rotate: false
+  xy: 1, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+run3
+  rotate: false
+  xy: 73, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+run4
+  rotate: false
+  xy: 145, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+run5
+  rotate: false
+  xy: 217, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+run6
+  rotate: false
+  xy: 289, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+run1
+  rotate: false
+  xy: 361, 9
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
